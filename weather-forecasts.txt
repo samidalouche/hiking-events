@@ -1,0 +1,20 @@
+# Weather Forecasts
+
+## Icefields
+
+🌤️ Forecasts
+  • Accuweather - Lake Louise [a]
+  • Accuweather - Saskatchewan River Crossing [b]
+  • MeteoBlue - Lake Louise [c]
+  • MeteoBlue - Saskatchewan River Crossing [d]
+  • Mountain forecast of a mountain nearby [e]
+  • Spotwx [f]
+
+[a] https://www.accuweather.com/en/ca/lake-louise/t0l/weather-forecast/51957?city=lake%20louise
+[b] https://www.accuweather.com/en/ca/saskatchewan-river-crossing/t0l/weather-forecast/2295584?city=saskatchewan%20river%20crossing
+[c] https://www.meteoblue.com/en/weather/week/lake-louise_canada_6048483
+[d] https://www.meteoblue.com/en/weather/week/saskatchewan-river-crossing_canada_6141254
+[e] https://www.mountain-forecast.com/peaks/Observation-Peak/forecasts/3174
+[f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.7667&lon=-116.50221&tz=America/Edmonton&label=Silverhorn%20Mountain
+
+
