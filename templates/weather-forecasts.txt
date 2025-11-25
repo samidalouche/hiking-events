@@ -1,0 +1,70 @@
+# Weather Forecasts
+
+## Kananaskis
+
+🌤️ Forecasts
+  • Accuweather - Canmore [a]
+  • MeteoBlue - Canmore [b]
+  • Accuweather - Kananaskis Village [c]
+  • MeteoBlue - Kananaskis Village [d]
+  • Mountain forecast of a mountain nearby [e]
+  • Spotwx [f]
+
+[a] https://www.accuweather.com/en/ca/canmore/t1w/weather-forecast/52142?city=canmore
+[b] https://www.meteoblue.com/en/weather/week/canmore_canada_5914894
+[c] https://www.accuweather.com/en/ca/kananaskis/t0l/weather-forecast/52284?city=kananaskis
+[d] https://www.meteoblue.com/en/weather/week/kananaskis_canada_11071526
+[e] https://www.mountain-forecast.com/peaks/Snow-Peak-Alberta/forecasts/latest
+[f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=50.7723&lon=-115.325&tz=America/Edmonton&label=Mount%20Burstall
+
+
+## Skoki
+
+🌤️ Forecasts
+  • Accuweather - Lake Louise [a]
+  • MeteoBlue - Lake Louise [b]
+  • Mountain forecast of a mountain nearby [c]
+  • Spotwx [d]
+
+[a] https://www.accuweather.com/en/ca/lake-louise/t0l/weather-forecast/51957?city=lake%20louise
+[b] https://www.meteoblue.com/en/weather/week/lake-louise_canada_6048483
+[c] https://www.mountain-forecast.com/peaks/Skoki-Mountain/forecasts/latest
+[d] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.5333&lon=-116.06889&tz=America/Edmonton
+
+
+## Icefields
+
+🌤️ Forecasts
+  • Accuweather - Lake Louise [a]
+  • Accuweather - Saskatchewan River Crossing [b]
+  • MeteoBlue - Lake Louise [c]
+  • MeteoBlue - Saskatchewan River Crossing [d]
+  • Mountain forecast of a mountain nearby [e]
+  • Spotwx [f]
+
+[a] https://www.accuweather.com/en/ca/lake-louise/t0l/weather-forecast/51957?city=lake%20louise
+[b] https://www.accuweather.com/en/ca/saskatchewan-river-crossing/t0l/weather-forecast/2295584?city=saskatchewan%20river%20crossing
+[c] https://www.meteoblue.com/en/weather/week/lake-louise_canada_6048483
+[d] https://www.meteoblue.com/en/weather/week/saskatchewan-river-crossing_canada_6141254
+[e] https://www.mountain-forecast.com/peaks/Observation-Peak/forecasts/3174
+[f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.7667&lon=-116.50221&tz=America/Edmonton&label=Silverhorn%20Mountain
+
+
+## Yoho
+
+🌤️ Forecasts
+  • Accuweather - Lake Louise [a]
+  • Accuweather - Field [b]
+  • MeteoBlue - Lake Louise [c]
+  • MeteoBlue - Field [d]
+  • Mountain forecast of a mountain nearby [e]
+  • Spotwx [f]
+
+[a] https://www.accuweather.com/en/ca/lake-louise/t0l/weather-forecast/51957?city=lake%20louise
+[b] https://www.accuweather.com/en/ca/field/v0a/weather-forecast/52832?city=field
+[c] https://www.meteoblue.com/en/weather/week/lake-louise_canada_6048483
+[d] https://www.meteoblue.com/en/weather/week/field_canada_5952555
+[e] https://www.mountain-forecast.com/peaks/Mount-Field-British-Columbia/forecasts/2643
+[f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.56668&lon=-116.5689&tz=America/Edmonton&label=Yoho%20Peak
+
+
