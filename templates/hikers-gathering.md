@@ -43,6 +43,7 @@ https://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilitie
 - 2025 Edition: https://www.facebook.com/share/p/1G9s9GnDjr/
 ```
 
+
 ### After confirmation
 
 ```
@@ -99,9 +100,11 @@ June 5th & 6th, 2026 (two nights)
 I need our Early Birds to help secure 10 sleeping units, so please let me know if you're interested.
 
 More info: https://www.facebook.com/share/1Ec6n3YBWP/
+```
 
-### Francais (non-hiking specific group)
+### Français (non-hiking specific group)
 
+```
 Le Hikers Gathering 2026 aura lieu le weekend du 5-7 juin (nuits du 5 et 6 juin).
 
 Le jour ? Entièrement libre : à vous de choisir vos aventures, randonnées, matinées tranquilles ou explorations.
@@ -113,9 +116,11 @@ Pas de souci ! Vous êtes tout de même les bienvenus autour du feu le vendredi 
 Plus d'infos : https://www.facebook.com/share/1Ec6n3YBWP/
 ```
 
-## Event Shares (After Confirmation)
+## Fall Event Reposts
 
-### English
+### English FB Post
+
+**English FB post**
 
 ```
 Each year, we reserve a massive group campground in Bow Valley Provincial Park, split the cost, and create our own little weekend hiking village.
@@ -129,8 +134,27 @@ June 5th & 6th, 2026 (two nights)
 You can confirm up to the last minute.
 ```
 
-## Chat
+<Add a link to the event page>
 
+### French FB Post (with pictures)
+
+```
+Le Hikers Gathering 2026 aura lieu le weekend du 5-7 juin (nuits du 5 et 6 juin).
+Le jour ? Entièrement libre : à vous de choisir vos aventures, randonnées, matinées tranquilles ou explorations.
+Le soir ? C’est là que la magie opère. Nous nous retrouvons tous autour d’un grand feu de camp commun pour partager des histoires, rire et nous reconnecter sous les étoiles.
+Pas envie de camper ?
+Pas de souci ! Vous êtes tout de même les bienvenus autour du feu le vendredi et/ou le samedi soir.
+
+Plus d'infos : https://www.facebook.com/share/1BfQSqPYqb/
+```
+
+Examples:
+- https://www.facebook.com/groups/francaisacalgary/posts/3334885913336208
+
+
+## Fall Chats
+
+### Previous year's chat
 ```
 Hello everyone! 
 
@@ -145,7 +169,180 @@ If you're not sure yet, let me know you want to be a butterfly and I'll add you 
 June 5th & 6th, 2026 (two nights)
 ```
 
-## Post samples / Pictures to copy paste
-- https://www.facebook.com/groups/francaisacalgary/posts/3334885913336208
+### Butterflies Chat Welcome Message
+
+```
+Hey everyone! 🦋
+
+A quick note about how the chats work so you know the lay of the land:
+
+This is the butterfly chat. It's the home for those who like to keep their plans loose. I'll drop reminders here as we get closer to the event, and you can confirm whenever the moment feels right — right up to the last minute.
+
+There's also a main event chat for folks who've committed to the gathering. That's where day-to-day coordination happens: who's bringing what, hike plans, carpools, weather updates. Once you commit, I'll add you over there.
+
+For those wondering what a butterfly even is in this context:
+
+Every gathering has its rhythm — and ours has two.
+
+The Early Birds arrive first. In the quiet of fall, while the rest of the world is still folding up summer, they commit. They send word, they send funds, they hold the campground for the rest of us. They are the steady ones — the keepers of the nest, the reason there is a gathering at all.
+
+And then there are the butterflies.
+
+Butterflies don't plan in seasons; they plan in moments. They drift in when the wind feels right — sometimes a month before, sometimes the morning of. They might stay both nights, or just one, or only long enough to share a drink by the fire and slip back into the dark. They are weather-watchers, mood-followers, last-minute yes-sayers. They follow the warmth, the colours, the pull of the flame.
+
+Both belong. The Early Birds build the gathering. The butterflies bring it to life.
+
+So — flutter in whenever you're ready. Just send me a message when the moment feels right and I'll get you set up.
+```
+
+
+<Add a link to the event page as a different message>
+
+## Spring Event Reminders
+
+### English FB Post
+
+```
+The Hikers Gathering is just around the corner — June 5-7 weekend (2 nights). If you'd like to join us, now's the time to send me a message.
+
+Not into camping? You're still very welcome to swing by the campfire on Friday and/or Saturday night.
+
+🏕️ What This Event Is All About
+Each year, we reserve a massive group campground in Bow Valley Provincial Park, split the cost, and create our own little weekend hiking village.
+Daytime is completely free-form: Choose your own adventures, hikes, lazy mornings, or explorations.
+Evenings? That’s when the magic happens. We all gather around a roaring communal campfire for stories, laughter, and reconnecting under the stars.
+
+📅 Event Dates:
+June 5th & 6th, 2026 (two nights)
+
+💰 Cost
+The park charges per sleeping unit (tent, RV, trailer, etc.), not per person.
+• Regular sleeping unit — $67 (for both nights)
+• Car Sleepers — $20 (for both nights) - If you sleep in a non–sleeping-unit vehicle (e.g., van/SUV), the park doesn’t charge, but we’ll use these contributions to keep things fair and help offset costs for sleeping-unit folks.
+
+📬 Interested?
+
+Send me a message and I’ll add you to the group chat.
+
+🏞️ Campground Info
+https://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilities/group-use/grouse/
+
+📸 Photo Albums from Previous Years
+• 2022 Edition: https://www.facebook.com/share/p/17aZbyp6Fp/
+• 2023 Edition: https://www.facebook.com/share/p/1MbVmHGqC5/
+• 2024 Edition: https://www.facebook.com/share/p/1B1pxg3tMK/
+• 2025 Edition: https://www.facebook.com/share/p/1G9s9GnDjr/
+
+Examples:
+- https://www.facebook.com/share/p/1CaU4x5bwX/
+
+<Add a link to the event page>
+
+### French FB Post
+
+```
+Le Hikers Gathering approche à grands pas — weekend du 5-7 juin (2 nuits). Si vous souhaitez vous joindre à nous, c'est le moment de m'envoyer un message.
+
+Pas envie de camper ? Vous êtes tout de même les bienvenus autour du feu le vendredi et/ou le samedi soir.
+
+🏕️ De quoi s'agit-il ?
+Chaque année, nous réservons un grand terrain de camping de groupe dans le Bow Valley Provincial Park, partageons les frais, et créons notre propre petit village de randonneurs le temps d'un weekend.
+Le jour ? Entièrement libre : à vous de choisir vos aventures, randonnées, matinées tranquilles ou explorations.
+Le soir ? C'est là que la magie opère. Nous nous retrouvons tous autour d'un grand feu de camp commun pour partager des histoires, rire et nous reconnecter sous les étoiles.
+
+📅 Dates :
+5 et 6 juin 2026 (deux nuits)
+
+💰 Coût
+Le parc facture par unité de couchage (tente, VR, remorque, etc.), pas par personne.
+• Unité de couchage régulière — 67 $ (pour les deux nuits)
+• Dodo dans la voiture — 20 $ (pour les deux nuits) - Si vous dormez dans un véhicule non destiné au couchage (par exemple, van/SUV), le parc ne facture pas, mais nous utiliserons ces contributions pour maintenir l'équité et aider à compenser les coûts pour les personnes payant pour des unités de couchage.
+
+📬 Intéressé(e) ?
+
+Envoyez-moi un message et je vous ajouterai au chat de groupe.
+
+🏞️ Informations sur le terrain de camping
+https://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilities/group-use/grouse/
+
+📸 Albums photos des années précédentes
+• Édition 2022 : https://www.facebook.com/share/p/17aZbyp6Fp/
+• Édition 2023 : https://www.facebook.com/share/p/1MbVmHGqC5/
+• Édition 2024 : https://www.facebook.com/share/p/1B1pxg3tMK/
+• Édition 2025 : https://www.facebook.com/share/p/1G9s9GnDjr/
+
+```
+
+<Add a link to the event page>
+
+
+Examples:
+- https://www.facebook.com/groups/873330732699678/?multi_permalinks=27438424322430291&hoisted_section_header_type=recently_seen
+
+## Spring Chat Templates
+### English Chat
+
+```
+Hello everyone!
+
+Hope you've been enjoying the spring so far.
+
+The Hikers Gathering is just around the corner, so it's time to confirm if you'd like to join us! 
+
+Not into camping? You're still very welcome to swing by the campfire on Friday and/or Saturday night.
+
+📅 Event Dates:
+June 5th & 6th, 2026 (two nights)
+```
+
+<Add a link to the event page as a different message>
+
+
+### Butterflies chat
+
+```
+A quick note about how the chats work so you know the lay of the land:
+
+This is the butterfly chat. It's the home for those who like to keep their plans loose. I'll continue dropping reminders here as we get closer to the event, and you can confirm whenever the moment feels right — right up to the last minute.
+
+There's also a main event chat for folks who've committed to the gathering. That's where day-to-day coordination happens: who's bringing what, hike plans, carpools, weather updates. Once you commit, I'll add you over there.
+
+For those wondering what a butterfly even is in this context:
+
+Every gathering has its rhythm — and ours has two.
+
+The Early Birds arrive first. In the quiet of fall, while the rest of the world is still folding up summer, they commit. They send word, they send funds, they hold the campground for the rest of us. They are the steady ones — the keepers of the nest, the reason there is a gathering at all.
+
+And then there are the butterflies.
+
+Butterflies don't plan in seasons; they plan in moments. They drift in when the wind feels right — sometimes a month before, sometimes the morning of. They might stay both nights, or just one, or only long enough to share a drink by the fire and slip back into the dark. They are weather-watchers, mood-followers, last-minute yes-sayers. They follow the warmth, the colours, the pull of the flame.
+
+Both belong. The Early Birds build the gathering. The butterflies bring it to life.
+
+So — flutter in whenever you're ready. Just send me a message when the moment feels right and I'll get you set up.
+```
+
+
+### Groups of interest
+
+### Francophone
+
+- [Francophones En Alberta](https://www.facebook.com/groups/873330732699678/): do not link to the event, as they only accept events in french.
+- [Français à Calgary](https://www.facebook.com/groups/francaisacalgary/)
+- [Québécois dans l'ouest](https://www.facebook.com/groups/quebecoisdanslouest)
+
+## FAQ
+
+### What is a butterfly?
+
+Every gathering has its rhythm — and ours has two.
+
+The **Early Birds** arrive first. In the quiet of fall, while the rest of the world is still folding up summer, they commit. They send word, they send funds, they hold the campground for the rest of us. They are the steady ones — the keepers of the nest, the reason there is a gathering at all.
+
+And then there are the **butterflies**.
+
+Butterflies don't plan in seasons; they plan in moments. They drift in when the wind feels right — sometimes a month before, sometimes the morning of. They might stay both nights, or just one, or only long enough to share a drink by the fire and slip back into the dark. They are weather-watchers, mood-followers, last-minute yes-sayers. They follow the warmth, the colours, the pull of the flame.
+
+Both belong. The Early Birds build the gathering. The butterflies bring it to life.
 
 
