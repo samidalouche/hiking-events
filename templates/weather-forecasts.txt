@@ -18,6 +18,19 @@
 [f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=50.7723&lon=-115.325&tz=America/Edmonton&label=Mount%20Burstall
 
 
+## South Kananaskis
+
+🌤️ Forecasts
+  • Accuweather - Longview [a]
+  • MeteoBlue - Longview [b]
+  • Mountain forecast of a mountain nearby [c]
+  • Spotwx [f]
+
+[a] https://www.accuweather.com/en/ca/longview/t0l/10-day-weather-forecast/52104
+[b] https://www.meteoblue.com/en/weather/week/longview_canada_6059898
+[c] https://www.mountain-forecast.com/peaks/Sentinel-Peak-Alberta/forecasts/latest
+[f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=50.15008&lon=-114.56874&tz=America/Edmonton&label=Pasque%20Mountain
+
 ## Skoki
 
 🌤️ Forecasts
