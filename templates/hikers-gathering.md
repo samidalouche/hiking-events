@@ -323,26 +323,82 @@ So — flutter in whenever you're ready. Just send me a message when the moment 
 ```
 
 
-### Groups of interest
+## Last minute reminder
+
+### English
+```
+The gathering is almost here — close enough to smell the woodsmoke. 🔥
+
+🦋 Butterflies, this is your moment. If the wind is pulling you toward camping with us, now is the time to flutter in and commit — the nest is filling up.
+
+🍲 Not camping but want to share a meal? Friday night is our community potluck, starting at 5:30pm around the fire. Bring something to share. Saturday night, the fire will be going too — swing by either night, just let me know you're coming.
+
+🥾 Saturday hikes are still taking shape. Plans will firm up Friday night, around food and flame — the best decisions are made there anyway.
+
+🤔 New here and wondering what a "butterfly" is? Read the story: https://www.alberta-hiking-resources.org/events/hikers-gathering#early-birds-vs-butterflies
+
+See you soon!
+```
+
+## Groups of interest
+
+### Welcome to post (English)
+- [Alberta Hikers Together](https://www.facebook.com/groups/406674690939732/)
+  - Create initial event here, share to other groups
+- [Bow Valley Network](https://www.facebook.com/groups/BowValleyNetwork)
+  - Shared event appears as event
+- [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367)
+  - Shared event appears as event
+- [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628)
+  - Shared event appears as event
+- [Banff Hiking](https://www.facebook.com/groups/1204490666235936)
+  - Shared event appears as event
+- [Canmore Banff Events](https://www.facebook.com/groups/canmoreevents)
+  - Shared event does not appear as event
+- [Alberta Camping](https://www.facebook.com/groups/2040541526056939/)
+  - ?
+- [Alberta Hiking Association](https://www.facebook.com/groups/albertahiking)
+  - ?
+- [Hiking Buddies Canada](https://www.facebook.com/groups/351502112510481)
+  - ?
+- [Kananaskis outdoors and hikes](https://www.facebook.com/groups/363444837593330)
+  - Shared event appears as event
+- [Explore Alberta Group](https://www.facebook.com/groups/255534652224674)
+  - Shared event appears as event
+
+### Not welcome (Engglish)
+- Adventure Calgary (considered commercial partner because I centralize payments)
 
 ### Francophone
 
-- [Francophones En Alberta](https://www.facebook.com/groups/873330732699678/): do not link to the event, as they only accept events in french.
-- [Français à Calgary](https://www.facebook.com/groups/francaisacalgary/)
+- [Français à Calgary](https://www.facebook.com/groups/251825701642260/)
+  - Shared event does not appear as event
+- [Québécois in Calgary](https://www.facebook.com/groups/2242420407/)
+  - Shared event does not appear as event
 - [Québécois dans l'ouest](https://www.facebook.com/groups/quebecoisdanslouest)
+  - Shared event appears as event
+- [Francophones En Alberta](https://www.facebook.com/groups/873330732699678/): do not link to the event, as they only accept events in french.
 
-## FAQ
 
-### What is a butterfly?
+## Requests
 
-Every gathering has its rhythm — and ours has two.
+AdventureCalgary.com
 
-The **Early Birds** arrive first. In the quiet of fall, while the rest of the world is still folding up summer, they commit. They send word, they send funds, they hold the campground for the rest of us. They are the steady ones — the keepers of the nest, the reason there is a gathering at all.
 
-And then there are the **butterflies**.
+```
+Hi,
 
-Butterflies don't plan in seasons; they plan in moments. They drift in when the wind feels right — sometimes a month before, sometimes the morning of. They might stay both nights, or just one, or only long enough to share a drink by the fire and slip back into the dark. They are weather-watchers, mood-followers, last-minute yes-sayers. They follow the warmth, the colours, the pull of the flame.
+Given the group rules, I figured I'd rather ask before sharing an event on your group.
 
-Both belong. The Early Birds build the gathering. The butterflies bring it to life.
+The event:
+https://www.facebook.com/share/1Dkbp5YEdc/
+
+- It is non commercial
+- I collect the payments as the reservation is centralized (we have the entire campground to ourselves and pay for sleeping units to the park)
+
+I sometimes see people posting about enjoying hiking and camping in your group, so I figured it might be of interest to share the event.
+
+If you prefer not to, just let me know, non hard feelings. Not trying to "boost attendence" or anything, just trying to reach out to those interested, and have fun during that weekend.
+```
 
 

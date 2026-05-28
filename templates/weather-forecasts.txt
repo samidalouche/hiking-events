@@ -1,5 +1,18 @@
 # Weather Forecasts
 
+
+## AHR links
+
+[Bragg Creek](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#bragg-creek)
+[Canmore and North Kananaskis](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#canmore-and-north-kananaskis)
+[South Kananaskis](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#south-kananaskis)
+[Banff, Lake Louise, and Yoho](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#banff-lake-louise-and-yoho)
+[Abraham Lake, Nordegg, and Saskatchewan River Crossing](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#abraham-lake-nordegg-and-saskatchewan-river-crossing)
+[South of Alberta](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#south-of-alberta)
+[Other BC National Parks](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#other-bc-national-parks)
+
+
+
 ## Kananaskis
 
 🌤️ Forecasts
