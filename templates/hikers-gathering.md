@@ -23,6 +23,8 @@ Evenings? That’s when the magic happens. We all gather around a roaring commun
 Not camping?
 No problem! You’re still welcome to join the fire on Friday and/or Saturday night.
 
+🍲 Friday night is our community potluck — everyone’s welcome, campers and visitors alike. It starts at 5:30pm around the fire, so bring something to share. The fire will be going Saturday night too. Not camping? Just let me know which night(s) you’ll swing by.
+
 💰 Cost
 The park charges per sleeping unit (tent, RV, trailer, etc.), not per person.
 • Early Birds — $60 (for both nights) - Send payment before Nov 30th to be part of the first 10 units (This discounted price is thanks to leftover funds from last year!).
@@ -63,6 +65,8 @@ Evenings? That’s when the magic happens. We all gather around a roaring commun
 
 Not camping?
 No problem! You’re still welcome to join the fire on Friday and/or Saturday night.
+
+🍲 Friday night is our community potluck — everyone’s welcome, campers and visitors alike. It starts at 5:30pm around the fire, so bring something to share. The fire will be going Saturday night too. Not camping? Just let me know which night(s) you’ll swing by.
 
 💰 Cost
 The park charges per sleeping unit (tent, RV, trailer, etc.), not per person.
@@ -113,6 +117,8 @@ Le soir ? C’est là que la magie opère. Nous nous retrouvons tous autour d’
 Pas envie de camper ?
 Pas de souci ! Vous êtes tout de même les bienvenus autour du feu le vendredi et/ou le samedi soir.
 
+🍲 Le vendredi soir, c'est notre repas-partage communautaire — ouvert à tous, campeurs comme visiteurs. Ça commence à 5:30pm autour du feu, alors apportez quelque chose à partager. Le feu sera aussi allumé le samedi soir. Pas de camping ? Faites-moi simplement savoir quel(s) soir(s) vous passerez.
+
 Plus d'infos : https://www.facebook.com/share/1Ec6n3YBWP/
 ```
 
@@ -144,6 +150,8 @@ Le jour ? Entièrement libre : à vous de choisir vos aventures, randonnées, ma
 Le soir ? C’est là que la magie opère. Nous nous retrouvons tous autour d’un grand feu de camp commun pour partager des histoires, rire et nous reconnecter sous les étoiles.
 Pas envie de camper ?
 Pas de souci ! Vous êtes tout de même les bienvenus autour du feu le vendredi et/ou le samedi soir.
+
+🍲 Le vendredi soir, c'est notre repas-partage communautaire — ouvert à tous, campeurs comme visiteurs. Ça commence à 5:30pm autour du feu, alors apportez quelque chose à partager. Le feu sera aussi allumé le samedi soir. Pas de camping ? Faites-moi simplement savoir quel(s) soir(s) vous passerez.
 
 Plus d'infos : https://www.facebook.com/share/1BfQSqPYqb/
 ```
@@ -207,6 +215,8 @@ The Hikers Gathering is just around the corner — June 5-7 weekend (2 nights). 
 
 Not into camping? You're still very welcome to swing by the campfire on Friday and/or Saturday night.
 
+🍲 Friday night is our community potluck — everyone's welcome, campers and visitors alike. It starts at 5:30pm around the fire, so bring something to share. The fire will be going Saturday night too. Not camping? Just let me know which night(s) you'll swing by.
+
 🏕️ What This Event Is All About
 Each year, we reserve a massive group campground in Bow Valley Provincial Park, split the cost, and create our own little weekend hiking village.
 Daytime is completely free-form: Choose your own adventures, hikes, lazy mornings, or explorations.
@@ -244,6 +254,8 @@ Examples:
 Le Hikers Gathering approche à grands pas — weekend du 5-7 juin (2 nuits). Si vous souhaitez vous joindre à nous, c'est le moment de m'envoyer un message.
 
 Pas envie de camper ? Vous êtes tout de même les bienvenus autour du feu le vendredi et/ou le samedi soir.
+
+🍲 Le vendredi soir, c'est notre repas-partage communautaire — ouvert à tous, campeurs comme visiteurs. Ça commence à 5:30pm autour du feu, alors apportez quelque chose à partager. Le feu sera aussi allumé le samedi soir. Pas de camping ? Faites-moi simplement savoir quel(s) soir(s) vous passerez.
 
 🏕️ De quoi s'agit-il ?
 Chaque année, nous réservons un grand terrain de camping de groupe dans le Bow Valley Provincial Park, partageons les frais, et créons notre propre petit village de randonneurs le temps d'un weekend.
@@ -291,6 +303,8 @@ The Hikers Gathering is just around the corner, so it's time to confirm if you'd
 
 Not into camping? You're still very welcome to swing by the campfire on Friday and/or Saturday night.
 
+🍲 Friday night is our community potluck — everyone's welcome, campers and visitors alike. It starts at 5:30pm around the fire, so bring something to share. The fire will be going Saturday night too. Not camping? Just let me know which night(s) you'll swing by.
+
 📅 Event Dates:
 June 5th & 6th, 2026 (two nights)
 ```
@@ -331,7 +345,7 @@ The gathering is almost here — close enough to smell the woodsmoke. 🔥
 
 🦋 Butterflies, this is your moment. If the wind is pulling you toward camping with us, now is the time to flutter in and commit — the nest is filling up.
 
-🍲 Not camping but want to share a meal? Friday night is our community potluck, starting at 5:30pm around the fire. Bring something to share. Saturday night, the fire will be going too — swing by either night, just let me know you're coming.
+🍲 Friday night is our community potluck — everyone's welcome, campers and visitors alike. It starts at 5:30pm around the fire, so bring something to share. Saturday night, the fire will be going too. Not camping? Just let me know which night(s) you'll swing by.
 
 🥾 Saturday hikes are still taking shape. Plans will firm up Friday night, around food and flame — the best decisions are made there anyway.
 
