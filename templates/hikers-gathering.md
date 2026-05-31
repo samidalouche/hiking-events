@@ -7,6 +7,8 @@
 ```
 Hikers Gathering 2026 — Early Bird Spots Now Open! 
 
+🔗 Full details & FAQ → https://www.alberta-hiking-resources.org/events/hikers-gathering
+
 It’s that time of year again! To lock in our beloved Grouse Group Campground for 2026, I need our Early Birds to help secure 10 sleeping units.
 If you already know you’re in, please send your payment by November 30th to snag the early-bird rate.
 
@@ -52,6 +54,8 @@ https://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilitie
 
 ```
 Hikers Gathering 2026 — Confirmed! 
+
+🔗 Full details & FAQ → https://www.alberta-hiking-resources.org/events/hikers-gathering
 
 We have secured the Grouse Group Campground. You are welcome to confirm your presence up to the last minute if you would like to join us. 
 
