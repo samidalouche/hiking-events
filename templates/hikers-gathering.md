@@ -31,6 +31,8 @@ The park charges per sleeping unit (tent, RV, trailer, etc.), not per person.
 • Butterflies — $67 (for both nights) - For those who join later. We can add you right up until the last minute.
 • Car Sleepers — $20 (for both nights) - If you sleep in a non–sleeping-unit vehicle (e.g., van/SUV), the park doesn’t charge, but we’ll use these contributions to keep things fair and help offset costs for sleeping-unit folks.
 
+🎫 Heads up: a Kananaskis Conservation Pass is required for every vehicle in Kananaskis Country. It’s separate from the camping fee — grab one here: https://www.alberta.ca/kananaskis-conservation-pass.aspx
+
 📬 Interested?
 
 Send me a message and I’ll add you to the group chat.
@@ -72,6 +74,8 @@ No problem! You’re still welcome to join the fire on Friday and/or Saturday ni
 The park charges per sleeping unit (tent, RV, trailer, etc.), not per person.
 • Regular sleeping unit — $67 (for both nights)
 • Car Sleepers — $20 (for both nights) - If you sleep in a non–sleeping-unit vehicle (e.g., van/SUV), the park doesn’t charge, but we’ll use these contributions to keep things fair and help offset costs for sleeping-unit folks.
+
+🎫 Heads up: a Kananaskis Conservation Pass is required for every vehicle in Kananaskis Country. It’s separate from the camping fee — grab one here: https://www.alberta.ca/kananaskis-conservation-pass.aspx
 
 📬 Interested?
 
@@ -230,6 +234,8 @@ The park charges per sleeping unit (tent, RV, trailer, etc.), not per person.
 • Regular sleeping unit — $67 (for both nights)
 • Car Sleepers — $20 (for both nights) - If you sleep in a non–sleeping-unit vehicle (e.g., van/SUV), the park doesn’t charge, but we’ll use these contributions to keep things fair and help offset costs for sleeping-unit folks.
 
+🎫 Heads up: a Kananaskis Conservation Pass is required for every vehicle in Kananaskis Country. It’s separate from the camping fee — grab one here: https://www.alberta.ca/kananaskis-conservation-pass.aspx
+
 📬 Interested?
 
 Send me a message and I’ll add you to the group chat.
@@ -269,6 +275,8 @@ Le soir ? C'est là que la magie opère. Nous nous retrouvons tous autour d'un g
 Le parc facture par unité de couchage (tente, VR, remorque, etc.), pas par personne.
 • Unité de couchage régulière — 67 $ (pour les deux nuits)
 • Dodo dans la voiture — 20 $ (pour les deux nuits) - Si vous dormez dans un véhicule non destiné au couchage (par exemple, van/SUV), le parc ne facture pas, mais nous utiliserons ces contributions pour maintenir l'équité et aider à compenser les coûts pour les personnes payant pour des unités de couchage.
+
+🎫 À noter : un laissez-passer de conservation du Kananaskis (Kananaskis Conservation Pass) est requis pour chaque véhicule. Il est distinct des frais de camping — procurez-vous-en un ici : https://www.alberta.ca/kananaskis-conservation-pass.aspx
 
 📬 Intéressé(e) ?
 
