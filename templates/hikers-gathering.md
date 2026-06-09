@@ -5,7 +5,7 @@
 ### Initial
 
 ```
-Hikers Gathering 2026 — Early Bird Spots Now Open! 
+Title: Hikers Gathering 2026 — Early Bird Spots Now Open! 
 
 🔗 Full details & FAQ → https://www.alberta-hiking-resources.org/events/hikers-gathering
 
@@ -53,7 +53,7 @@ https://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilitie
 ### After confirmation
 
 ```
-Hikers Gathering 2026 — Confirmed! 
+Title: Hikers Gathering 2026 — Confirmed! 
 
 🔗 Full details & FAQ → https://www.alberta-hiking-resources.org/events/hikers-gathering
 
