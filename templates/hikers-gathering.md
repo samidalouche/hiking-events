@@ -5,7 +5,7 @@
 ### Initial
 
 ```
-Hikers Gathering 2026 — Early Bird Spots Now Open! 
+Title: Hikers Gathering 2026 — Early Bird Spots Now Open! 
 
 🔗 Full details & FAQ → https://www.alberta-hiking-resources.org/events/hikers-gathering
 
@@ -53,7 +53,7 @@ https://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilitie
 ### After confirmation
 
 ```
-Hikers Gathering 2026 — Confirmed! 
+Title: Hikers Gathering 2026 — Confirmed! 
 
 🔗 Full details & FAQ → https://www.alberta-hiking-resources.org/events/hikers-gathering
 
@@ -426,5 +426,21 @@ I sometimes see people posting about enjoying hiking and camping in your group, 
 
 If you prefer not to, just let me know, non hard feelings. Not trying to "boost attendence" or anything, just trying to reach out to those interested, and have fun during that weekend.
 ```
+
+
+
+
+## Checklists
+
+- Propane Fire Pits
+- Potluck
+  - napkins
+  - paper plates
+  - plastic glasses
+  - plastic cutlery
+
+
+## TODO
+- Review invites and add note about the new restriction for cars / Decide what we do about it
 
 
