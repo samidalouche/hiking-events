@@ -440,3 +440,7 @@ If you prefer not to, just let me know, non hard feelings. Not trying to "boost 
   - plastic cutlery
 
 
+## TODO
+- Review invites and add note about the new restriction for cars / Decide what we do about it
+
+
