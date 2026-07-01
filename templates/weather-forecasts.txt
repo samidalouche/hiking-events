@@ -1,19 +1,47 @@
 # Weather Forecasts
 
 
-## AHR links
+## v2
+
+### Crowsnest Pass
+
+🌤️ Forecasts
+  • Crowsnest Pass [a]
+  • Spotwx [b]
+  • Mountain forecast of a mountain nearby [c]
+
+[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#crowsnest-pass
+[b] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=49.60937&lon=-114.37305&tz=America/Edmonton&label=Livingstone%20Peak%20South%20Trailhead
+[c] https://www.mountain-forecast.com/peaks/Crowsnest-Mountain/forecasts/latest
+
+
+### Waterton Lakes
+
+🌤️ Forecasts
+  • Waterton Lakes [a]
+  • Spotwx [b]
+  • Mountain forecast of a mountain nearby [c]
+
+[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#waterton-lakes
+[b] https://spotwx.com/products/grib_index.php?model=hrdps_continental&lat=49.08325&lon=-113.93523&tz=America/Edmonton&label=Mount%20Crandell
+[c] https://www.mountain-forecast.com/peaks/Mount-Blakiston/forecasts/2910
+
+## v1
+### AHR links
 
 [Bragg Creek](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#bragg-creek)
 [Canmore and North Kananaskis](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#canmore-and-north-kananaskis)
 [South Kananaskis](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#south-kananaskis)
 [Banff, Lake Louise, and Yoho](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#banff-lake-louise-and-yoho)
 [Abraham Lake, Nordegg, and Saskatchewan River Crossing](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#abraham-lake-nordegg-and-saskatchewan-river-crossing)
-[South of Alberta](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#south-of-alberta)
+
 [Other BC National Parks](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#other-bc-national-parks)
 
+[Crowsnest Pass](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#crowsnest-pass)
+[Waterton Lakes](https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#waterton-lakes)
 
 
-## Kananaskis
+### Kananaskis
 
 🌤️ Forecasts
   • Accuweather - Canmore [a]
@@ -31,7 +59,7 @@
 [f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=50.7723&lon=-115.325&tz=America/Edmonton&label=Mount%20Burstall
 
 
-## South Kananaskis
+### South Kananaskis
 
 🌤️ Forecasts
   • Accuweather - Longview [a]
@@ -58,7 +86,7 @@
 [d] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.5333&lon=-116.06889&tz=America/Edmonton
 
 
-## Icefields
+### Icefields
 
 🌤️ Forecasts
   • Accuweather - Lake Louise [a]
@@ -76,7 +104,7 @@
 [f] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.7667&lon=-116.50221&tz=America/Edmonton&label=Silverhorn%20Mountain
 
 
-## Yoho
+### Yoho
 
 🌤️ Forecasts
   • Accuweather - Lake Louise [a]
