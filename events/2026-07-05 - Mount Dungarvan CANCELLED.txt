@@ -2,28 +2,23 @@
 
 👥 Participants:
   • Sami
-  • Gabriela Uifalusi
-  • Angelica Hall
+  • Karen Sarai Cadena Garrido
 
 📍 Trail Info
-  • 🗺️ AllTrails (via Bear's Hump) [2]
-  • 🗺️ Bob Spirko (descent via Tick Ridge) [3]
-  • 🗺️ AllTrails (descent via Tick Ridge) [4]
-  • 🗺️ AllTrails (descent via east route) [5]
-  • 📖 Kane's book: p37 - rated as difficult
-  • 💡 Ascent via Bear's Hump, descent via Tick Ridge with backup descent via East Route if thunderstorm risk
+• 💡 Mount Dungarvan vs the loop?
+  • 🗺️ Mount Dungarvan on AllTrails [2]
+  • 🗺️ Dungarvan, Dundy, and Cloudy Peak Summits Loop on AllTrails [3]
+  • 📖 Andrew Nugara Trip Report [4]
+  • 📖 Andrew Nugara Book p39 -- rated as difficult
 
 ⏰ Time
   • 🕕 Meet at 04:45 at the AllTrails trailhead
-  • 🚶‍♂️ Start hiking at 05:00 sharp, 
-  • 🌅 Sunrise at or higher than Bear's Hump, around 05:30
+  • 🚶‍♂️ Start hiking at 05:00 sharp
   • 🐢 Intermediate/moderate pace with plenty of photo breaks 📸
-  • 😎 1h+ summit chill—wind gods permitting 🌪️🤞
-  • 🎯 Aim to return early afternoon (potential risk of thunderstorm), then off to chill mode 😌
+  • 😎 Long summit breaks chill—wind gods permitting 🌪️🤞
 
 🏖️ After Hike
-  • 🥩🍻 Chill at Townsite Campground -- Feel free to join 🥳🔥
-  • ☀️ Fingers crossed for sun, not wind! (Manifesting good weather 🙏)
+  • Drive back to Calgary
 
 🌤️ Forecasts
   • Waterton Lakes [a]
@@ -32,9 +27,10 @@
 
 🛠️ Logistics
   • 🔊 Bring your Rocky Talkie if you have one — Tune to Channel 06, Privacy Code (CT) 02.
-  • 🏊 Cold dip -- bring a swimming suit 🩳👙
-  • 📲 Message me if you’re interested and I’ll add you to the private chat group 🔒👥
+  • 🏊 Cold dip(s) - bring a swimming suit 🩳👙
+  • 🏊 River crossings - bring water shoes
   • 📵 Unreliable cell service in Waterton. Let’s coordinate before Thursday afternoon
+  • 📲 Message me if you’re interested and I’ll add you to the private chat group 🔒👥
 
 ⚠️ Quick Safety Note
 
@@ -49,12 +45,10 @@ You are fully responsible for your safety, prep, and gear. Please:
 Start here → https://www.alberta-hiking-resources.org/hike-organizers/sami
 
 [1] https://www.alberta-hiking-resources.org/hike-organizers/sami
-[2] https://www.alltrails.com/trail/canada/alberta/mount-crandell-east-route
-[3] https://bobspirko.ca/Waterton/MtCrandell/MtCrandell.html
-[4] https://www.alltrails.com/trail/canada/alberta/mount-crandell
-[5] https://www.alltrails.com/trail/canada/alberta/mount-crandell-east-route
+[2] https://www.alltrails.com/trail/canada/alberta/mount-dungarvan
+[3] https://www.alltrails.com/trail/canada/alberta/dungarvan-dundy-and-cloudy-peak-summits-loop
+[4] https://anugara.net/dungarvan.htm
 
 [a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#waterton-lakes
 [b] https://spotwx.com/products/grib_index.php?model=hrdps_continental&lat=49.08325&lon=-113.93523&tz=America/Edmonton&label=Mount%20Crandell
 [c] https://www.mountain-forecast.com/peaks/Mount-Blakiston/forecasts/2910
-
