@@ -54,6 +54,35 @@ Alors… tenté(e) ? Laisse un commentaire ou écris-moi 💬
 J'ai hâte de partager des sentiers (et des feux de camp) avec toi ! 🥾💛
 ```
 
+
+### Replies to FB posts
+
+Short version to drop as a **reply** under someone else's post — when they're
+looking for partners, or posting trip photos. The surrounding thread already sets
+the scene, so this skips the intro and gets to the point.
+
+Keep the "if 3am sounds horrifying" line even when trimming: on its own, the rest
+reads as recruiting only for sufferfests, which puts off most of the people worth
+inviting.
+
+#### English
+
+```
+If you're into frontcountry camping and big scrambling days — 3am starts, 12–15h out, plenty of photos, cold dips and proper snack breaks ⛰️ — let's sync up 🫶 And if 3am sounds horrifying, come anyway: a good chunk of my crew is there for the camp, a book and the fire ⛺️🔥
+
+Most park sites open for reservation in January, so we plan in November/December and book together the second the window opens 🚀 Give me a shout if you'd like in 💬
+👉 https://www.alberta-hiking-resources.org/hike-organizers/sami/multi-day-trip
+```
+
+#### French
+
+```
+Si tu tripes sur le camping frontcountry et les grosses journées de scrambling — départs à 3h, 12–15h dehors, plein de photos, saucettes dans l'eau frette et vraies pauses collation ⛰️ — faut qu'on se synchronise 🫶 Et si 3h du matin te fait peur, viens pareil : une bonne partie de ma gang est là pour le camp, un livre et le feu ⛺️🔥
+
+La plupart des sites ouvrent aux réservations en janvier, donc on planifie en novembre/décembre et on réserve ensemble dès l'ouverture 🚀 Écris-moi si ça te tente 💬
+👉 https://www.alberta-hiking-resources.org/hike-organizers/sami/multi-day-trip
+```
+
 ## Threads Post
 
 Threads caps posts at 500 characters, so this is a different post rather than a
