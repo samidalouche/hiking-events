@@ -53,3 +53,42 @@ Alors… tenté(e) ? Laisse un commentaire ou écris-moi 💬
 
 J'ai hâte de partager des sentiers (et des feux de camp) avec toi ! 🥾💛
 ```
+
+## Threads Post
+
+Threads caps posts at 500 characters, so this is a different post rather than a
+trimmed FB one. No booking logistics and no "next summer" framing — it is an open
+call for people to hike, scramble and camp with in the Canadian Rockies, leading with
+the 3am sunrise missions specifically, and saying the details get sorted in DMs.
+
+The "still come if that sounds awful" line earns its characters: without it the post
+reads as recruiting only for sufferfests.
+
+Re-check the count if you edit — most emoji cost two characters, and the French is
+already close to the limit.
+
+### English
+
+```
+Looking for hiking, scrambling and camping buddies in the Canadian Rockies 🫶
+
+Especially anyone up for 3am alpine starts and 12–15h sunrise missions — cold air, first light on the peaks, back at camp for steak 🌅⛰️ That's my favourite kind of day and I'd love more people to share it.
+
+Not your thing? Still come — plenty of my crew shows up for camp, a book and the fire ⛺️🔥
+
+Say hi and we'll sort the details 💬
+👉 https://www.alberta-hiking-resources.org/hike-organizers/sami/multi-day-trip
+```
+
+### French
+
+```
+Je cherche des ami·es de rando, de scrambling et de camping dans les Rocheuses 🏔️🫶
+
+Surtout quelqu'un de partant pour un départ à 3h et une mission de 12–15h au lever du soleil — première lumière sur les sommets, steak au camp 🌅 C'est ma journée préférée et j'aimerais la partager.
+
+Pas ton truc ? Viens pareil — le camp, un livre et le feu, c'est tout aussi valable ⛺️🔥
+
+Écris-moi, on verra les détails 💬
+👉 https://www.alberta-hiking-resources.org/hike-organizers/sami/multi-day-trip
+```
