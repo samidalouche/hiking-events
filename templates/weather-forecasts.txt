@@ -3,6 +3,18 @@
 
 ## v2
 
+### Moraine Lake
+
+🌤️ Forecasts
+  • Lake Louise [a]
+  • Spotwx [b]
+  • Mountain forecast of a mountain nearby [c]
+
+[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations/banff-lake-louise-yoho
+[b] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.3225&lon=-116.18556&tz=America/Edmonton&label=Moraine%20Lake
+[c] https://www.mountain-forecast.com/peaks/Eiffel-Peak/forecasts/latest
+
+
 ### Crowsnest Pass
 
 🌤️ Forecasts
@@ -10,7 +22,7 @@
   • Spotwx [b]
   • Mountain forecast of a mountain nearby [c]
 
-[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#crowsnest-pass
+[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations/crowsnest-pass
 [b] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=49.60937&lon=-114.37305&tz=America/Edmonton&label=Livingstone%20Peak%20South%20Trailhead
 [c] https://www.mountain-forecast.com/peaks/Crowsnest-Mountain/forecasts/latest
 
@@ -22,7 +34,7 @@
   • Spotwx [b]
   • Mountain forecast of a mountain nearby [c]
 
-[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations#waterton-lakes
+[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations/waterton-lakes
 [b] https://spotwx.com/products/grib_index.php?model=hrdps_continental&lat=49.08325&lon=-113.93523&tz=America/Edmonton&label=Mount%20Crandell
 [c] https://www.mountain-forecast.com/peaks/Mount-Blakiston/forecasts/2910
 
