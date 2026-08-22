@@ -11,7 +11,7 @@ A light, friendly post to drop in various FB groups **once in a while** to gauge
 ### English
 
 ```
-📸 Okay, it's been a hot minute since I posted here… so consider this a little photo dump to make up for it 👆
+📸 I don't post after every adventure — I save it all up for the occasional photo dump instead, so here's a batch 👆
 
 Whether you're all about frontcountry camping, big hiking/scrambling days, or the whole combo, let's connect 🫶 I'm always happy to meet more humans who love waking up in the mountains — even if some of us take "waking up" a little too literally with 3am alpine starts 😅
 
@@ -34,7 +34,7 @@ Can't wait to share some trails (and campfires) with you! 🥾💛
 ### French
 
 ```
-📸 Bon, ça fait un petit bout que je n'ai pas posté ici… alors voici un petit dump de photos 👆
+📸 Je ne poste pas après chaque aventure — je garde tout ça pour un dump de photos de temps en temps, alors en voici une brassée 👆
 
 Que tu tripes sur le camping frontcountry, les grosses journées de rando/scrambling, ou le combo complet, faut qu'on se connecte 🫶 Je suis toujours content de rencontrer des humains qui aiment se réveiller dans les montagnes — même si certains d'entre nous prennent le « se réveiller » un peu trop au sérieux avec des départs à 3h du matin 😅
 
