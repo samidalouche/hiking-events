@@ -1,0 +1,9 @@
+{
+  "metals.javaHome": "${workspaceFolder}/.vscode/mise-tools/java",
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "${workspaceFolder}/.vscode/mise-tools/node"
+  },
+  "java.jdt.ls.java.home": "${workspaceFolder}/.vscode/mise-tools/java",
+  "java.import.gradle.java.home": "${workspaceFolder}/.vscode/mise-tools/java",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.vscode/mise-tools/python"
+}

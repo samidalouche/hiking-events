@@ -1,0 +1,4 @@
+# Per-machine symlinks written by hverlin.mise-vscode into the paths that
+# .vscode/settings.json points at. They resolve to this machine's mise installs,
+# so they must never be committed alongside the settings file.
+.vscode/mise-tools/
