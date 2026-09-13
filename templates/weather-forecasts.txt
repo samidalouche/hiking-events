@@ -15,6 +15,20 @@
 [c] https://www.mountain-forecast.com/peaks/Eiffel-Peak/forecasts/latest
 
 
+### Icefields Parkway South of Saskatchewan River Crossing
+
+🌤️ Forecasts
+  • Lake Louise [a]
+  • Saskatchewan River Crossing [b]
+  • Spotwx [c]
+  • Mountain forecast of a mountain nearby [d]
+
+[a] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations/banff-lake-louise-yoho
+[b] https://www.alberta-hiking-resources.org/weather-trail-conditions/popular-locations/abraham-lake-nordegg
+[c] https://spotwx.com/products/grib_index.php?model=hrdps_1km_west&lat=51.87936&lon=-116.68177&tz=America/Edmonton&label=Mount%20Hector
+[d] https://www.mountain-forecast.com/peaks/Mount-Hector/forecasts/latest
+
+
 ### Crowsnest Pass
 
 🌤️ Forecasts
