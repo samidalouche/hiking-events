@@ -68,7 +68,7 @@ inviting.
 #### English
 
 ```
-If you're into frontcountry camping and big scrambling days — 3am starts, 12–15h out, plenty of photos, cold dips and proper snack breaks ⛰️ — let's sync up 🫶 And if 3am sounds horrifying, come anyway: a good chunk of my crew is there for the camp, a book and the fire ⛺️🔥
+If you're into frontcountry camping and big scrambling days — 3am starts, 12–15h out, plenty of photos, cold dips and proper snack breaks ⛰️ — let's sync up 🫶 And if 3am sounds horrifying, come anyway: some of my crew climb, some do shorter hikes, some bring a bike or a paddleboard, and some are there for the camp, a book and the fire ⛺️🔥 There's always someone up for whatever you're feeling that day 🧡
 
 Most park sites open for reservation in January, so we plan in November/December and book together the second the window opens 🚀 Give me a shout if you'd like in 💬
 👉 https://www.alberta-hiking-resources.org/hike-organizers/sami/multi-day-trip
@@ -77,7 +77,7 @@ Most park sites open for reservation in January, so we plan in November/December
 #### French
 
 ```
-Si tu tripes sur le camping frontcountry et les grosses journées de scrambling — départs à 3h, 12–15h dehors, plein de photos, saucettes dans l'eau frette et vraies pauses collation ⛰️ — faut qu'on se synchronise 🫶 Et si 3h du matin te fait peur, viens pareil : une bonne partie de ma gang est là pour le camp, un livre et le feu ⛺️🔥
+Si tu tripes sur le camping frontcountry et les grosses journées de scrambling — départs à 3h, 12–15h dehors, plein de photos, saucettes dans l'eau frette et vraies pauses collation ⛰️ — faut qu'on se synchronise 🫶 Et si 3h du matin te fait peur, viens pareil : dans ma gang, certain·es font de l'escalade, d'autres des randos plus courtes, d'autres sortent le vélo ou la planche, et d'autres sont là pour le camp, un livre et le feu ⛺️🔥 Il y a toujours quelqu'un partant pour ce dont tu as envie ce jour-là 🧡
 
 La plupart des sites ouvrent aux réservations en janvier, donc on planifie en novembre/décembre et on réserve ensemble dès l'ouverture 🚀 Écris-moi si ça te tente 💬
 👉 https://www.alberta-hiking-resources.org/hike-organizers/sami/multi-day-trip
